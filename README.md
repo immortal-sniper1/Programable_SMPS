@@ -1,2 +1,2 @@
 # Programable_SMPS
- PMSP stm32 esp32
+ PSMSP stm32 esp32
